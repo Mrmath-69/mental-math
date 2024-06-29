@@ -1,0 +1,9 @@
+#gameTimer{
+    display: flex;
+    align-items: center;
+  }
+  #sco, #highSco, #nums, #Userinput {
+              display: flex;
+              align-items: center;
+          }
+  
